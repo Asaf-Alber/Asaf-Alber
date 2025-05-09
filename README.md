@@ -7,8 +7,8 @@
 ---
 
 ## 🛠️ My Tech Stack
-- **Languages**: Python, C, MATLAB  
-- **Tools**: OrCAD Capture, Cadence Virtuoso, EasyEDA, PSpice  
+- **Languages**: Python, C, MATLAB, Verilog  
+- **Tools**: OrCAD Capture, Cadence Virtuoso, EasyEDA, PSpice, ModelSim  
 - **Hardware**: Oscilloscopes, Logic Analyzers, Multimeters, PCB prototyping  
 - **Other**: Signal processing, circuit validation, test planning
 
