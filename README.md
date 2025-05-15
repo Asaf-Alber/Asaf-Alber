@@ -24,8 +24,11 @@ Designed and simulated RF modules using OrCAD with lab validation using oscillos
 ### ⚙️ VLSI Logic Design  
 Designed CMOS gates and combinational logic in Cadence Virtuoso with LVS and DRC validation.
 
-### 📐 High-Frequency PCB Layout  
-Designed 2-layer and 4-layer PCBs for high-speed applications using EasyEDA, including signal integrity analysis.
+### 🔍 Logic Probe PCB v1.0  
+Designed and built a digital logic probe capable of identifying LOW, HIGH, or PWM signals on digital lines.  
+Utilized voltage reference dividers, comparators, and RC filtering to classify signals with LED feedback.  
+Simulated the analog behavior and implemented a compact PCB layout in EasyEDA.  
+🔗 [View on GitHub](https://github.com/Asaf-Alber/logic-probe)
 
 ### ⏱️ Arduino Stopwatch & Countdown Timer  
 Created an embedded system using Arduino Uno, LCD (I²C), and buzzer for stopwatch and countdown timer modes.  
