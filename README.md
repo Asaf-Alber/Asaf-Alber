@@ -28,12 +28,10 @@ Designed CMOS gates and combinational logic in Cadence Virtuoso with LVS and DRC
 Designed and built a digital logic probe capable of identifying LOW, HIGH, or PWM signals on digital lines.  
 Utilized voltage reference dividers, comparators, and RC filtering to classify signals with LED feedback.  
 Simulated the analog behavior and implemented a compact PCB layout in EasyEDA.  
-🔗 [View on GitHub](https://github.com/Asaf-Alber/logic-probe)
 
 ### ⏱️ Arduino Stopwatch & Countdown Timer  
 Created an embedded system using Arduino Uno, LCD (I²C), and buzzer for stopwatch and countdown timer modes.  
 Features real-time control with button-based UX and state-machine logic.  
-🔗 [View on GitHub](https://github.com/Asaf-Alber/arduino-stopwatch-countdown)
 
 🔗 [More Projects on LinkedIn](https://www.linkedin.com/in/asafalber/details/projects/)
 
