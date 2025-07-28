@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Asaf Alber
+# Hi there , I'm Asaf Alber
 
-🎓 I'm a 3rd-year Electrical and Electronics Engineering student at Tel Aviv University.  
-🔧 I love building hardware systems, from high-frequency PCB design to CMOS logic simulation.  
-📈 Currently learning and growing in analog/digital circuit design, VLSI, and embedded systems.
+ I'm a 3rd-year Electrical and Electronics Engineering student at Tel Aviv University.  
+ I love building hardware systems, from high-frequency PCB design to CMOS logic simulation.  
+ Currently learning and growing in analog/digital circuit design, VLSI, and embedded systems.
 
 ---
 
