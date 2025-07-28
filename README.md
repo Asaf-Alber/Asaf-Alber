@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ My Tech Stack
-- **Languages**: C, C++, Python, MATLAB, Verilog  
+- **Languages**: C, C++, Python, MATLAB, Verilog, Assembly.  
 - **Tools**: Arduino IDE, OrCAD Capture, Cadence Virtuoso, EasyEDA, PSpice, ModelSim  
 - **Technologies**: I²C protocol, digital I/O (GPIO), real-time embedded logic, FSM design  
 - **Hardware**: Oscilloscopes, Logic Analyzers, Multimeters, PCB prototyping  
