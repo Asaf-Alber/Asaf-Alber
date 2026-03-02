@@ -7,7 +7,7 @@ Currently Hardware Engineering Intern at Elma Electronics.
 
 ### Technical Skills
 * **HDLs & Design:** SystemVerilog, Verilog, Vivado, ModelSim, HDLBits
-* **VLSI & Architecture:** RISC-V (Rocket, SonicBOOM), Chipyard, Cadence Virtuoso (Layout, LVS/DRC)
+* **VLSI & Architecture:** RISC-V (Rocket, SonicBOOM), Chipyard, Cadence Virtuoso (Layout, LVS/DRC), Synopsys Euclide (RTL, Logic Synthesis)
 * **Software:** Python, C, C++, MATLAB, Assembly
 * **Hardware:** FPGA (Artix-7), PCB Design (OrCAD, Allegro), GNSS (U-blox)
 * **Protocols:** AXI, I2C, SPI, UART
@@ -36,5 +36,3 @@ Developing a GNSS board using U-blox receivers. Previously implemented a dual-st
 
 ---
 
-### Background
-Transitioned from managing 100+ employees in telecom to hardware engineering. Combining leadership experience with technical precision in VLSI and board design.
