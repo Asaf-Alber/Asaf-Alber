@@ -1,7 +1,6 @@
 # Asaf Alber
 
 **4th-year Electrical & Electronics Engineering Student | Tel Aviv University** Specializing in VLSI, Computer Architecture, and DSP.  
-Currently Hardware Engineering Intern at Elma Electronics.
 
 ---
 
@@ -25,8 +24,6 @@ Designed and verified a 4-port packet switch in SystemVerilog, featuring custom 
 #### Analog IC: Two-Stage OTA
 Designed a high-gain two-stage OTA using IBM 130nm process in Cadence Virtuoso. Optimized for stability and Miller compensation.
 
-#### GNSS & Embedded Systems
-Developing a GNSS board using U-blox receivers. Previously implemented a dual-stopwatch system with FSM logic on FPGA.
 
 ---
 
