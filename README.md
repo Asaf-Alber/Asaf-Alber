@@ -1,6 +1,6 @@
 # Asaf Alber
 
-**4th-year Electrical & Electronics Engineering Student | Tel Aviv University** Specializing in VLSI, Computer Architecture, and DSP.  
+**4th-year Electrical & Electronics Engineering Student | Tel Aviv University** Specializing in VLSI Design, Computer Architecture, and Digital Systems.
 
 ---
 
@@ -21,9 +21,12 @@ Configuring Rocket and SonicBOOM cores via Chipyard. Implementing hardware-accel
 #### 4-Port Packet Switch
 Designed and verified a 4-port packet switch in SystemVerilog, featuring custom arbitration logic and FIFO buffering.
 
-#### Analog IC: Two-Stage OTA
+#### Analog IC: Two-Stage OTA (IBM 130nm)
 Designed a high-gain two-stage OTA using IBM 130nm process in Cadence Virtuoso. Optimized for stability and Miller compensation.
 
+#### 4-bit ALU – Kogge-Stone (Cadence Virtuoso)
+Designed and physically implemented a synchronous 4-bit ALU using a Kogge-Stone prefix adder.
+Performed multi-voltage timing characterization (0.9V / 1.2V), derived Fmax up to 3.31 GHz, and completed DRC/LVS-clean standard-cell layout.
 
 ---
 
